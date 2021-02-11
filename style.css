@@ -18,3 +18,33 @@ h2 {
 body {
     background-color: black;
 }
+
+.bday-form {
+    background-color: lightgrey;
+    font-family: 'Inconsolata';
+    height: 50px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.drop-selections {
+    text-align: center;
+    margin-top: 75px;
+}
+
+.form-select {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 15px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Inconsolata';
+    color: lightgrey;
+    text-align: center;
+}
